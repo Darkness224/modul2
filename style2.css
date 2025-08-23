@@ -1,1 +1,16 @@
-
+body {
+    background-color: rgb(81, 55, 72);
+}
+h1 {
+    color:rgb(38, 35, 218);
+}
+p {
+    color:rgb(255, 145, 19);
+    font-size:25px
+}
+h3 {
+    color:rgb(0, 255, 162);
+}
+a {
+color:pink;
+} 
